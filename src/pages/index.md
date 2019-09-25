@@ -2,8 +2,10 @@
 title: De Vogelwachter van Amersfoort
 banner:
   title: De vogelwachter van Amersfoort
-  subtitle: Een enthousiaste lokale gids met veel kennis van de lokale vogels die
-    je een onvergetelijke ervaring met vrienden of collega's geeft.
+  subtitle: |-
+    ![](/images/vogelwachter logo amersfoort.jpg)
+
+    Een enthousiaste lokale gids met veel kennis van de lokale vogels die je een onvergetelijke ervaring met vrienden of collega's geeft.
   actions:
   - label: Meer weten?
     url: "/no-sidebar"
