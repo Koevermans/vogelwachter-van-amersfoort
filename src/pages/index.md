@@ -1,5 +1,5 @@
 ---
-title: home
+title: De Vogelwachter van Amersfoort
 banner:
   title: De vogelwachter van Amersfoort
   subtitle: Een enthousiaste lokale gids met veel kennis van de lokale vogels die
