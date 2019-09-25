@@ -29,6 +29,7 @@ fields:
   - type: file
     name: path
     label: Image
+    default: "/images/vogelwachter logo amersfoort.jpg"
   - type: text
     name: url
     label: URL
